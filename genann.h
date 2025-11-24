@@ -24,9 +24,12 @@
  */
 
 
+
+
 #ifndef GENANN_H
 #define GENANN_H
 
+#define HOLAAA
 #include <stdio.h>
 
 #ifdef __cplusplus
